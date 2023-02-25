@@ -15,6 +15,6 @@ def gcd(a,b):
             b_1 = b
             ab = a_1 + b_1
     print('Наибольший общий делитель:', a + b)
-a = int(input('Введите число'))
-b = int(input('Введите число'))
-gcd(a,b)
+number_1 = int(input('Введите число'))
+number_2 = int(input('Введите число'))
+gcd(number_1,number_1)
