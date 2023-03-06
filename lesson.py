@@ -19,4 +19,6 @@ while True:
    number_1 = int(input('Введите первое число: '))
    number_2 = int(input('Введите второе  число: '))
    gcd(number_1,number_2)
+   switch = int(input('Продолжим? Да/1; Нет/0 : ' ))
+   
 
